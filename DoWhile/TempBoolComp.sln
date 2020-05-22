@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempBoolComp", "TempBoolComp\TempBoolComp.csproj", "{F7CBCDD7-508A-458A-8AE9-9F16EB995BDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7CBCDD7-508A-458A-8AE9-9F16EB995BDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7CBCDD7-508A-458A-8AE9-9F16EB995BDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7CBCDD7-508A-458A-8AE9-9F16EB995BDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7CBCDD7-508A-458A-8AE9-9F16EB995BDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81CFBBFE-96D4-4D1A-8510-4AE01E05C204}
+	EndGlobalSection
+EndGlobal
