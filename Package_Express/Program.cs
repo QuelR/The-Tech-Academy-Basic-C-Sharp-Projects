@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -27,29 +27,18 @@ namespace Package_Express
             string pkgHt = Console.ReadLine();
             Console.WriteLine("What is the package length?");
             string pkgLt = Console.ReadLine();
-            int passSz = 51;
+
             int passWd = Convert.ToInt32(pkgWd);
             int passHt = Convert.ToInt32(pkgHt);
             int passLt = Convert.ToInt32(pkgLt);
-            if (passSz < passWd)
-            {
-                Console.WriteLine("Package too big to be shipped via Package Express.");
-                Console.ReadLine();
-                return;
-            }
-            if (passSz < passHt)
-            {
-                Console.WriteLine("Package too big to be shipped via Package Express.");
-                Console.ReadLine();
-                return;
-            }
-            if (passSz < passLt)
-            {
-                Console.WriteLine("Package too big to be shipped via Package Express.");
-                Console.ReadLine();
-                return;
-            }
 
+            if ((passWd + passHt + passLt) > 50)
+            {
+                Console.WriteLine("Package too big to be shipped via Package Express.");
+                Console.ReadLine();
+                return;
+            }
+           
             Console.WriteLine("Your estimated total for shipping this package is: $" + (passPkg * passWd * passHt * passLt / 100) + ".00");
             Console.ReadLine();
         }
