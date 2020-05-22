@@ -1,0 +1,6 @@
+C:\Users\raque\source\repos\SpotTheDog\SpotTheDog\bin\Debug\SpotTheDog.exe.config
+C:\Users\raque\source\repos\SpotTheDog\SpotTheDog\bin\Debug\SpotTheDog.exe
+C:\Users\raque\source\repos\SpotTheDog\SpotTheDog\bin\Debug\SpotTheDog.pdb
+C:\Users\raque\source\repos\SpotTheDog\SpotTheDog\obj\Debug\SpotTheDog.csprojAssemblyReference.cache
+C:\Users\raque\source\repos\SpotTheDog\SpotTheDog\obj\Debug\SpotTheDog.exe
+C:\Users\raque\source\repos\SpotTheDog\SpotTheDog\obj\Debug\SpotTheDog.pdb
