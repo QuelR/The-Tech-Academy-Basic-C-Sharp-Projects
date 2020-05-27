@@ -1,0 +1,6 @@
+C:\Users\raque\source\repos\ListsArrays\ListsArrays\bin\Debug\ListsArrays.exe.config
+C:\Users\raque\source\repos\ListsArrays\ListsArrays\bin\Debug\ListsArrays.exe
+C:\Users\raque\source\repos\ListsArrays\ListsArrays\bin\Debug\ListsArrays.pdb
+C:\Users\raque\source\repos\ListsArrays\ListsArrays\obj\Debug\ListsArrays.csprojAssemblyReference.cache
+C:\Users\raque\source\repos\ListsArrays\ListsArrays\obj\Debug\ListsArrays.exe
+C:\Users\raque\source\repos\ListsArrays\ListsArrays\obj\Debug\ListsArrays.pdb
