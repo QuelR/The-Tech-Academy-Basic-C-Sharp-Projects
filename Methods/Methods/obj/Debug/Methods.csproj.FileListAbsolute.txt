@@ -1,0 +1,6 @@
+C:\Users\raque\source\repos\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\raque\source\repos\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\raque\source\repos\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\raque\source\repos\Methods\Methods\obj\Debug\Methods.csprojAssemblyReference.cache
+C:\Users\raque\source\repos\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\raque\source\repos\Methods\Methods\obj\Debug\Methods.pdb
