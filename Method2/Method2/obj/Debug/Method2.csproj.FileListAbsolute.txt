@@ -1,0 +1,7 @@
+C:\Users\raque\source\repos\Method2\Method2\bin\Debug\Method2.exe.config
+C:\Users\raque\source\repos\Method2\Method2\bin\Debug\Method2.exe
+C:\Users\raque\source\repos\Method2\Method2\bin\Debug\Method2.pdb
+C:\Users\raque\source\repos\Method2\Method2\obj\Debug\Method2.csprojAssemblyReference.cache
+C:\Users\raque\source\repos\Method2\Method2\obj\Debug\Method2.csproj.CoreCompileInputs.cache
+C:\Users\raque\source\repos\Method2\Method2\obj\Debug\Method2.exe
+C:\Users\raque\source\repos\Method2\Method2\obj\Debug\Method2.pdb
