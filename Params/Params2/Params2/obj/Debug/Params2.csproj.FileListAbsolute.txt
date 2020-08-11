@@ -1,0 +1,7 @@
+C:\Users\raque\source\repos\Params2\Params2\bin\Debug\Params2.exe.config
+C:\Users\raque\source\repos\Params2\Params2\bin\Debug\Params2.exe
+C:\Users\raque\source\repos\Params2\Params2\bin\Debug\Params2.pdb
+C:\Users\raque\source\repos\Params2\Params2\obj\Debug\Params2.csprojAssemblyReference.cache
+C:\Users\raque\source\repos\Params2\Params2\obj\Debug\Params2.csproj.CoreCompileInputs.cache
+C:\Users\raque\source\repos\Params2\Params2\obj\Debug\Params2.exe
+C:\Users\raque\source\repos\Params2\Params2\obj\Debug\Params2.pdb
