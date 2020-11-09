@@ -1,0 +1,7 @@
+C:\Users\raque\source\repos\MathConsole\MathConsole\bin\Debug\MathConsole.exe.config
+C:\Users\raque\source\repos\MathConsole\MathConsole\bin\Debug\MathConsole.exe
+C:\Users\raque\source\repos\MathConsole\MathConsole\bin\Debug\MathConsole.pdb
+C:\Users\raque\source\repos\MathConsole\MathConsole\obj\Debug\MathConsole.csprojAssemblyReference.cache
+C:\Users\raque\source\repos\MathConsole\MathConsole\obj\Debug\MathConsole.csproj.CoreCompileInputs.cache
+C:\Users\raque\source\repos\MathConsole\MathConsole\obj\Debug\MathConsole.exe
+C:\Users\raque\source\repos\MathConsole\MathConsole\obj\Debug\MathConsole.pdb
