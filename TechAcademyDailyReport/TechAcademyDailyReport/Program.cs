@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 
 namespace DailyReport
@@ -19,9 +19,11 @@ namespace DailyReport
 
             Console.WriteLine("\n" + "What page number?");
             string pageNumber = Console.ReadLine();
+            int pageNum = Convert.ToInt32(pageNumber);
 
             Console.WriteLine("\n" + "Do you need help with anything? Please answer “true” or “false”.");
             string studyHelp = Console.ReadLine();
+            bool stHelp = Convert.ToBoolean(studyHelp);
 
             Console.WriteLine("\n" + "Were there any positive experiences you’d like to share? Please give specifics.");
             string posExperience = Console.ReadLine();
@@ -31,6 +33,7 @@ namespace DailyReport
 
             Console.WriteLine("\n" + "How many hours did you study today?");
             string studyHours = Console.ReadLine();
+            int stHours = Convert.ToInt32(studyHours);
 
             Console.WriteLine("\n" + "Thank you for your answers. An Instructor will respond to this shortly. Have a great day!");
             Console.ReadLine();
