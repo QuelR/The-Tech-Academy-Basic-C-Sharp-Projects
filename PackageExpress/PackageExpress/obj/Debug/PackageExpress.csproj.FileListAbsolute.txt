@@ -1,0 +1,7 @@
+C:\Users\raque\source\repos\PackageExpress\PackageExpress\bin\Debug\PackageExpress.exe.config
+C:\Users\raque\source\repos\PackageExpress\PackageExpress\bin\Debug\PackageExpress.exe
+C:\Users\raque\source\repos\PackageExpress\PackageExpress\bin\Debug\PackageExpress.pdb
+C:\Users\raque\source\repos\PackageExpress\PackageExpress\obj\Debug\PackageExpress.csprojAssemblyReference.cache
+C:\Users\raque\source\repos\PackageExpress\PackageExpress\obj\Debug\PackageExpress.csproj.CoreCompileInputs.cache
+C:\Users\raque\source\repos\PackageExpress\PackageExpress\obj\Debug\PackageExpress.exe
+C:\Users\raque\source\repos\PackageExpress\PackageExpress\obj\Debug\PackageExpress.pdb
