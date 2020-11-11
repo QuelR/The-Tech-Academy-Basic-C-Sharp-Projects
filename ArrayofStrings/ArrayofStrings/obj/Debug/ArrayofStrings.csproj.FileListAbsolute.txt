@@ -1,0 +1,7 @@
+C:\Users\raque\source\repos\ArrayofStrings\ArrayofStrings\bin\Debug\ArrayofStrings.exe.config
+C:\Users\raque\source\repos\ArrayofStrings\ArrayofStrings\bin\Debug\ArrayofStrings.exe
+C:\Users\raque\source\repos\ArrayofStrings\ArrayofStrings\bin\Debug\ArrayofStrings.pdb
+C:\Users\raque\source\repos\ArrayofStrings\ArrayofStrings\obj\Debug\ArrayofStrings.csprojAssemblyReference.cache
+C:\Users\raque\source\repos\ArrayofStrings\ArrayofStrings\obj\Debug\ArrayofStrings.csproj.CoreCompileInputs.cache
+C:\Users\raque\source\repos\ArrayofStrings\ArrayofStrings\obj\Debug\ArrayofStrings.exe
+C:\Users\raque\source\repos\ArrayofStrings\ArrayofStrings\obj\Debug\ArrayofStrings.pdb
