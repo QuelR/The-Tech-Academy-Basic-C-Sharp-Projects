@@ -1,0 +1,7 @@
+C:\Users\raque\source\repos\projectZero\projectZero\bin\Debug\projectZero.exe.config
+C:\Users\raque\source\repos\projectZero\projectZero\bin\Debug\projectZero.exe
+C:\Users\raque\source\repos\projectZero\projectZero\bin\Debug\projectZero.pdb
+C:\Users\raque\source\repos\projectZero\projectZero\obj\Debug\projectZero.csprojAssemblyReference.cache
+C:\Users\raque\source\repos\projectZero\projectZero\obj\Debug\projectZero.csproj.CoreCompileInputs.cache
+C:\Users\raque\source\repos\projectZero\projectZero\obj\Debug\projectZero.exe
+C:\Users\raque\source\repos\projectZero\projectZero\obj\Debug\projectZero.pdb
