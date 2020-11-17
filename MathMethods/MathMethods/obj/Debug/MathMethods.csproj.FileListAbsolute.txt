@@ -1,0 +1,7 @@
+C:\Users\raque\source\repos\MathMethods\MathMethods\bin\Debug\MathMethods.exe.config
+C:\Users\raque\source\repos\MathMethods\MathMethods\bin\Debug\MathMethods.exe
+C:\Users\raque\source\repos\MathMethods\MathMethods\bin\Debug\MathMethods.pdb
+C:\Users\raque\source\repos\MathMethods\MathMethods\obj\Debug\MathMethods.csprojAssemblyReference.cache
+C:\Users\raque\source\repos\MathMethods\MathMethods\obj\Debug\MathMethods.csproj.CoreCompileInputs.cache
+C:\Users\raque\source\repos\MathMethods\MathMethods\obj\Debug\MathMethods.exe
+C:\Users\raque\source\repos\MathMethods\MathMethods\obj\Debug\MathMethods.pdb
