@@ -28,7 +28,7 @@ namespace MathMethods
             //Console.ReadLine();
 
             MathClass divi = new MathClass();
-            decimal result2 = divi.Divide(number);
+            int result2 = divi.Divide(number);
             Console.WriteLine("\n" + "42 divided by 2 equals: " + result2);
 
             //Console.WriteLine("\n" + "42 multiplied by 2020 equals: ");
