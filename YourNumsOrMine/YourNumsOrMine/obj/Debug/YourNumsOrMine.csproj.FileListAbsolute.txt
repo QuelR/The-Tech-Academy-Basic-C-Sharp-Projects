@@ -1,0 +1,7 @@
+C:\Users\raque\source\repos\YourNumsOrMine\YourNumsOrMine\bin\Debug\YourNumsOrMine.exe.config
+C:\Users\raque\source\repos\YourNumsOrMine\YourNumsOrMine\bin\Debug\YourNumsOrMine.exe
+C:\Users\raque\source\repos\YourNumsOrMine\YourNumsOrMine\bin\Debug\YourNumsOrMine.pdb
+C:\Users\raque\source\repos\YourNumsOrMine\YourNumsOrMine\obj\Debug\YourNumsOrMine.csprojAssemblyReference.cache
+C:\Users\raque\source\repos\YourNumsOrMine\YourNumsOrMine\obj\Debug\YourNumsOrMine.csproj.CoreCompileInputs.cache
+C:\Users\raque\source\repos\YourNumsOrMine\YourNumsOrMine\obj\Debug\YourNumsOrMine.exe
+C:\Users\raque\source\repos\YourNumsOrMine\YourNumsOrMine\obj\Debug\YourNumsOrMine.pdb
