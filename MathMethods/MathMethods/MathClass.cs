@@ -13,7 +13,7 @@ namespace MathMethods
             return addNum + 100;
         }
 
-        public decimal Divide(decimal divNum)
+        public int Divide(int divNum)
         {
             return divNum / 2;
         }
