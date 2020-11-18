@@ -13,9 +13,11 @@ namespace MathMethods
             return addNum + 100;
         }
 
-        public int Divide(int divNum)
+        public int Divide(decimal divNum)
         {
-            return divNum / 2;
+            decimal mathOp = divNum / 2;
+            int result = Convert.ToInt32(mathOp);
+            return result;
         }
 
         public int Third(string thirdNum)
