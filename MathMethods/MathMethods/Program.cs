@@ -19,7 +19,7 @@ namespace MathMethods
             //Console.ReadLine();
 
             MathClass add = new MathClass();
-            int result1 = add.Adding(number);
+            int result1 = add.Maths(number);
             Console.WriteLine("42 plus 100 equals: " + result1);
 
             //Console.WriteLine("\n" + "42 divided by 2 equals: ");
@@ -28,7 +28,7 @@ namespace MathMethods
             //Console.ReadLine();
 
             MathClass divi = new MathClass();
-            int result2 = divi.Divide(number);
+            int result2 = divi.Maths(number);
             Console.WriteLine("\n" + "42 divided by 2 equals: " + result2);
 
             //Console.WriteLine("\n" + "42 multiplied by 2020 equals: ");
@@ -37,7 +37,7 @@ namespace MathMethods
             //Console.ReadLine();
 
             MathClass thNum = new MathClass();
-            int result3 = thNum.Third(stNum);
+            int result3 = thNum.Maths(stNum);
             Console.WriteLine("\n" + "42 multiplied by 2020 equals: " + result3);
 
             Console.ReadLine();
