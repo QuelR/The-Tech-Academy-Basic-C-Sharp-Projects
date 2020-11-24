@@ -8,19 +8,20 @@ namespace MathMethods
 {
     class MathClass
     {
-        public int Adding(int addNum)
+        public int Maths(int addNum)
         {
             return addNum + 100;
+
         }
 
-        public int Divide(decimal divNum)
+        public int Maths(decimal divNum)
         {
             decimal mathOp = divNum / 2;
             int result = Convert.ToInt32(mathOp);
             return result;
         }
 
-        public int Third(string thirdNum)
+        public int Maths(string thirdNum)
         {
             int tNum = Convert.ToInt32(thirdNum);
             int tNumTotal = tNum * 42;
