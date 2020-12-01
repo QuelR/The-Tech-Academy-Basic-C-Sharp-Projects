@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,19 +8,24 @@ namespace YourNumsOrMine
 {
     class TwoInts
     {
-        public int Num1()
-        {           
-            Console.WriteLine("Pick a number");
-            int numOne = Convert.ToInt32(Console.ReadLine());
-            return numOne; 
-        }
 
-        public int Num2()
+        public int Numbers(int numOne, string stringNum)
         {
-            Console.WriteLine("\n" + "Pick a second number if you'd like");
-            int numTwo = Convert.ToInt32(Console.ReadLine());
-            return numTwo;
-        }
+            int combo;
 
+            if (stringNum == "")
+            {
+                combo = numOne;
+            }
+            
+            else 
+            {
+                int numTwo = Convert.ToInt32(stringNum);
+                combo = numOne + numTwo;
+            }
+
+            return combo;
+        }
     }
 }
+
