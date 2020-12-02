@@ -1,0 +1,7 @@
+C:\Users\raque\source\repos\NameParams\NameParams\obj\Debug\NameParams.csprojAssemblyReference.cache
+C:\Users\raque\source\repos\NameParams\NameParams\obj\Debug\NameParams.csproj.CoreCompileInputs.cache
+C:\Users\raque\source\repos\NameParams\NameParams\bin\Debug\NameParams.exe.config
+C:\Users\raque\source\repos\NameParams\NameParams\bin\Debug\NameParams.exe
+C:\Users\raque\source\repos\NameParams\NameParams\bin\Debug\NameParams.pdb
+C:\Users\raque\source\repos\NameParams\NameParams\obj\Debug\NameParams.exe
+C:\Users\raque\source\repos\NameParams\NameParams\obj\Debug\NameParams.pdb
