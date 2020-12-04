@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,18 +8,19 @@ namespace NameParams
 {
     public class DubNums
     {
-        public int Num1()
+        public void Nums(int num1, int num2)
         {
-            int num1 = 12;
-            return num1 * 2;
-        }
+            Console.WriteLine("Pick a number");
+            int userNum1 = Convert.ToInt32(Console.ReadLine());
+            int result1 = userNum1 * 2;
 
-        public int Num2()
-        {
-            int numTwo = 10;
-            Console.WriteLine(numTwo);
+            Console.WriteLine("Pick another number");
+            int userNum2 = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine(userNum1 + " X 2 equals: " + result1);
+
             Console.ReadLine();
-            return numTwo;            
+
         }
     }
 }
