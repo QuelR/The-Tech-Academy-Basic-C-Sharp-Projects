@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,14 +10,9 @@ namespace NameParams
     {
         static void Main(string[] args)
         {
-            DubNums numTwo = new DubNums();
-            int result2 = numTwo.Num2();
+            DubNums dubNums = new DubNums();
+            dubNums.Nums(num1: 12, num2: 10);
 
-            DubNums numOne = new DubNums();
-            int result1 = numOne.Num1();
-            Console.WriteLine("12 times 2 equals: " + result1);
-
-            Console.WriteLine("\n" + result2);
             Console.ReadLine();
         }
     }
