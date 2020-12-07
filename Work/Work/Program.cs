@@ -22,14 +22,13 @@ namespace Work
     {
         static void Main(string[] args)
         {
-            Person person = new Person();
-            person.Fname = "Sample";
-            person.Lname = "Student";
-            
             Employee employee = new Employee();
+            employee.Fname = "Sample";
+            employee.Lname = "Student";
+            
             employee.Id = 001;
 
-            person.SayName();
+            employee.SayName();
 
             Console.ReadLine();
         }
