@@ -1,0 +1,7 @@
+C:\Users\raque\source\repos\staticVoid\staticVoid\bin\Debug\staticVoid.exe.config
+C:\Users\raque\source\repos\staticVoid\staticVoid\bin\Debug\staticVoid.exe
+C:\Users\raque\source\repos\staticVoid\staticVoid\bin\Debug\staticVoid.pdb
+C:\Users\raque\source\repos\staticVoid\staticVoid\obj\Debug\staticVoid.csprojAssemblyReference.cache
+C:\Users\raque\source\repos\staticVoid\staticVoid\obj\Debug\staticVoid.csproj.CoreCompileInputs.cache
+C:\Users\raque\source\repos\staticVoid\staticVoid\obj\Debug\staticVoid.exe
+C:\Users\raque\source\repos\staticVoid\staticVoid\obj\Debug\staticVoid.pdb
