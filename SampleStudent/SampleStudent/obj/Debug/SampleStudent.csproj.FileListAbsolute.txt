@@ -1,0 +1,7 @@
+C:\Users\raque\source\repos\SampleStudent\SampleStudent\bin\Debug\SampleStudent.exe.config
+C:\Users\raque\source\repos\SampleStudent\SampleStudent\bin\Debug\SampleStudent.exe
+C:\Users\raque\source\repos\SampleStudent\SampleStudent\bin\Debug\SampleStudent.pdb
+C:\Users\raque\source\repos\SampleStudent\SampleStudent\obj\Debug\SampleStudent.csprojAssemblyReference.cache
+C:\Users\raque\source\repos\SampleStudent\SampleStudent\obj\Debug\SampleStudent.csproj.CoreCompileInputs.cache
+C:\Users\raque\source\repos\SampleStudent\SampleStudent\obj\Debug\SampleStudent.exe
+C:\Users\raque\source\repos\SampleStudent\SampleStudent\obj\Debug\SampleStudent.pdb
