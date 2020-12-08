@@ -1,0 +1,7 @@
+C:\Users\raque\source\repos\EmployeeID\EmployeeID\bin\Debug\EmployeeID.exe.config
+C:\Users\raque\source\repos\EmployeeID\EmployeeID\bin\Debug\EmployeeID.exe
+C:\Users\raque\source\repos\EmployeeID\EmployeeID\bin\Debug\EmployeeID.pdb
+C:\Users\raque\source\repos\EmployeeID\EmployeeID\obj\Debug\EmployeeID.csprojAssemblyReference.cache
+C:\Users\raque\source\repos\EmployeeID\EmployeeID\obj\Debug\EmployeeID.csproj.CoreCompileInputs.cache
+C:\Users\raque\source\repos\EmployeeID\EmployeeID\obj\Debug\EmployeeID.exe
+C:\Users\raque\source\repos\EmployeeID\EmployeeID\obj\Debug\EmployeeID.pdb
