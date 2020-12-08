@@ -1,0 +1,7 @@
+C:\Users\raque\source\repos\EmployeeQuit\EmployeeQuit\bin\Debug\EmployeeQuit.exe.config
+C:\Users\raque\source\repos\EmployeeQuit\EmployeeQuit\bin\Debug\EmployeeQuit.exe
+C:\Users\raque\source\repos\EmployeeQuit\EmployeeQuit\bin\Debug\EmployeeQuit.pdb
+C:\Users\raque\source\repos\EmployeeQuit\EmployeeQuit\obj\Debug\EmployeeQuit.csprojAssemblyReference.cache
+C:\Users\raque\source\repos\EmployeeQuit\EmployeeQuit\obj\Debug\EmployeeQuit.csproj.CoreCompileInputs.cache
+C:\Users\raque\source\repos\EmployeeQuit\EmployeeQuit\obj\Debug\EmployeeQuit.exe
+C:\Users\raque\source\repos\EmployeeQuit\EmployeeQuit\obj\Debug\EmployeeQuit.pdb
