@@ -14,13 +14,27 @@ namespace EmployeeID
     {
         public int id { get; set; }
 
+        public static bool operator ==(Employee employee1, Employee employee2)
+        {
+            return employee1.id == employee2.id;
+        }
+        public static bool operator !=(Employee employee1, Employee employee2)
+        {
+            return employee1.id != employee2.id;
+        }
+        public override int GetHashCode()
+        {
+            return 0;
+        }
+        public override bool Equals(object o)
+        {
+            return false;
+        }
         public override void sayName()
         {
             Console.WriteLine("Full Name: {0} {1} \nID Number: {2}", firstName, lastName, id);
         }
-
-
-
+                
         public void Quit(Person person)
         {
             Console.WriteLine("\n{0} {1} has quit.", firstName, lastName);
