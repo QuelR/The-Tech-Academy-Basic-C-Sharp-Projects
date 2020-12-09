@@ -32,18 +32,7 @@ namespace EmployeeID
             employee3.id = 003;
             employee3.sayName();
 
-            if (employee1.id == employee2.id)
-                Console.WriteLine("\nEmployee Id's 1 and 2 match");
             
-            else if (employee2.id == employee3.id)
-                Console.WriteLine("\nEmployees Id's 2 and 3 match");
-            
-            else if (employee3.id == employee1.id)
-                Console.WriteLine("\nEmployees Id's 1 and 3 match");
-            
-            else
-                Console.WriteLine("\nNo employee Id's match");
-
             Console.ReadLine();
         }
     }
