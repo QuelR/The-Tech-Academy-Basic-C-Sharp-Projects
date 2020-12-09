@@ -1,0 +1,7 @@
+C:\Users\raque\source\repos\EmployeeGeneric\EmployeeGeneric\bin\Debug\EmployeeGeneric.exe.config
+C:\Users\raque\source\repos\EmployeeGeneric\EmployeeGeneric\bin\Debug\EmployeeGeneric.exe
+C:\Users\raque\source\repos\EmployeeGeneric\EmployeeGeneric\bin\Debug\EmployeeGeneric.pdb
+C:\Users\raque\source\repos\EmployeeGeneric\EmployeeGeneric\obj\Debug\EmployeeGeneric.csprojAssemblyReference.cache
+C:\Users\raque\source\repos\EmployeeGeneric\EmployeeGeneric\obj\Debug\EmployeeGeneric.csproj.CoreCompileInputs.cache
+C:\Users\raque\source\repos\EmployeeGeneric\EmployeeGeneric\obj\Debug\EmployeeGeneric.exe
+C:\Users\raque\source\repos\EmployeeGeneric\EmployeeGeneric\obj\Debug\EmployeeGeneric.pdb
