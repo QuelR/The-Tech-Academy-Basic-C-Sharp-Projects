@@ -1,0 +1,7 @@
+C:\Users\raque\source\repos\WeekdayEnums\WeekdayEnums\bin\Debug\WeekdayEnums.exe.config
+C:\Users\raque\source\repos\WeekdayEnums\WeekdayEnums\bin\Debug\WeekdayEnums.exe
+C:\Users\raque\source\repos\WeekdayEnums\WeekdayEnums\bin\Debug\WeekdayEnums.pdb
+C:\Users\raque\source\repos\WeekdayEnums\WeekdayEnums\obj\Debug\WeekdayEnums.csprojAssemblyReference.cache
+C:\Users\raque\source\repos\WeekdayEnums\WeekdayEnums\obj\Debug\WeekdayEnums.csproj.CoreCompileInputs.cache
+C:\Users\raque\source\repos\WeekdayEnums\WeekdayEnums\obj\Debug\WeekdayEnums.exe
+C:\Users\raque\source\repos\WeekdayEnums\WeekdayEnums\obj\Debug\WeekdayEnums.pdb
