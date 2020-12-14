@@ -1,0 +1,7 @@
+C:\Users\raque\source\repos\LambdaJoe\LambdaJoe\bin\Debug\LambdaJoe.exe.config
+C:\Users\raque\source\repos\LambdaJoe\LambdaJoe\bin\Debug\LambdaJoe.exe
+C:\Users\raque\source\repos\LambdaJoe\LambdaJoe\bin\Debug\LambdaJoe.pdb
+C:\Users\raque\source\repos\LambdaJoe\LambdaJoe\obj\Debug\LambdaJoe.csprojAssemblyReference.cache
+C:\Users\raque\source\repos\LambdaJoe\LambdaJoe\obj\Debug\LambdaJoe.csproj.CoreCompileInputs.cache
+C:\Users\raque\source\repos\LambdaJoe\LambdaJoe\obj\Debug\LambdaJoe.exe
+C:\Users\raque\source\repos\LambdaJoe\LambdaJoe\obj\Debug\LambdaJoe.pdb
