@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -51,10 +51,18 @@ namespace LambdaJoe
             }
 
             Console.WriteLine("\nEmployees with first name Joe.");
-            foreach (Employee empJoe in employeeList.FindAll(x => x.FirstName == "Joe"))
+            List<Employee> empJoeList = new List<Employee>();
+            empJoeList = employeeList.Where(x => x.FirstName == "Joe").ToList();
+            foreach (Employee empJoe in empJoeList)
             {
-                Console.WriteLine("First Name: {0} Last Name: {1} Id: {2}", empJoe.FirstName, empJoe.LastName, empJoe.EmployeeId);
+                Console.WriteLine(empJoe.FirstName + " " + empJoe.LastName);
             }
+
+            //Console.WriteLine("\nEmployees with first name Joe.");
+            //foreach (Employee empJoe in employeeList.FindAll(x => x.FirstName == "Joe"))
+            //{
+            //    Console.WriteLine("First Name: {0} Last Name: {1} Id: {2}", empJoe.FirstName, empJoe.LastName, empJoe.EmployeeId);
+            //}
 
             Console.WriteLine("\nEmployee Id #'s over 5: ");
             foreach (Employee idNum in employeeList.FindAll(x => x.EmployeeId > 5))
