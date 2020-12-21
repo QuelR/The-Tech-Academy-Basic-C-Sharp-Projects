@@ -1,0 +1,7 @@
+C:\Users\raque\source\repos\NumberLog\NumberLog\bin\Debug\NumberLog.exe.config
+C:\Users\raque\source\repos\NumberLog\NumberLog\bin\Debug\NumberLog.exe
+C:\Users\raque\source\repos\NumberLog\NumberLog\bin\Debug\NumberLog.pdb
+C:\Users\raque\source\repos\NumberLog\NumberLog\obj\Debug\NumberLog.csprojAssemblyReference.cache
+C:\Users\raque\source\repos\NumberLog\NumberLog\obj\Debug\NumberLog.csproj.CoreCompileInputs.cache
+C:\Users\raque\source\repos\NumberLog\NumberLog\obj\Debug\NumberLog.exe
+C:\Users\raque\source\repos\NumberLog\NumberLog\obj\Debug\NumberLog.pdb
