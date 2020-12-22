@@ -1,0 +1,7 @@
+C:\Users\raque\source\repos\UserNumDateTime\UserNumDateTime\bin\Debug\UserNumDateTime.exe.config
+C:\Users\raque\source\repos\UserNumDateTime\UserNumDateTime\bin\Debug\UserNumDateTime.exe
+C:\Users\raque\source\repos\UserNumDateTime\UserNumDateTime\bin\Debug\UserNumDateTime.pdb
+C:\Users\raque\source\repos\UserNumDateTime\UserNumDateTime\obj\Debug\UserNumDateTime.csprojAssemblyReference.cache
+C:\Users\raque\source\repos\UserNumDateTime\UserNumDateTime\obj\Debug\UserNumDateTime.csproj.CoreCompileInputs.cache
+C:\Users\raque\source\repos\UserNumDateTime\UserNumDateTime\obj\Debug\UserNumDateTime.exe
+C:\Users\raque\source\repos\UserNumDateTime\UserNumDateTime\obj\Debug\UserNumDateTime.pdb
