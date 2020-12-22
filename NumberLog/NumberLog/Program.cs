@@ -23,10 +23,7 @@ namespace NumberLog
             {
                 writeNum.WriteLine(textNum);
             }
-            using (StreamReader readNum = new StreamReader(@"C:\Users\raque\Logs\log.txt"))
-            {
-                readNum.ReadLine();
-            }
+            Console.WriteLine(File.ReadAllText(@"C:\Users\raque\Logs\log.txt"));
             Console.WriteLine("Thanks for your input of: " + textNum);
             Console.ReadLine();
         }
