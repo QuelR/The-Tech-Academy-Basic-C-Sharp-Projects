@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -19,9 +19,13 @@ namespace NumberLog
         {
             Console.WriteLine("Please type a number.");
             string textNum = Console.ReadLine();
-            using (StreamWriter file = new StreamWriter(@"C:\Users\raque\Logs\log.txt", true))
+            using (StreamWriter writeNum = new StreamWriter(@"C:\Users\raque\Logs\log.txt", true))
             {
-                file.WriteLine(textNum);
+                writeNum.WriteLine(textNum);
+            }
+            using (StreamReader readNum = new StreamReader(@"C:\Users\raque\Logs\log.txt"))
+            {
+                readNum.ReadLine();
             }
             Console.WriteLine("Thanks for your input of: " + textNum);
             Console.ReadLine();
