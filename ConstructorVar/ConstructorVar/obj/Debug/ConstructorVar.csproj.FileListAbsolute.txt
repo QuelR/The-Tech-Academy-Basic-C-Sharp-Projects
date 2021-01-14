@@ -1,0 +1,7 @@
+C:\Users\raque\source\repos\ConstructorVar\ConstructorVar\bin\Debug\ConstructorVar.exe.config
+C:\Users\raque\source\repos\ConstructorVar\ConstructorVar\bin\Debug\ConstructorVar.exe
+C:\Users\raque\source\repos\ConstructorVar\ConstructorVar\bin\Debug\ConstructorVar.pdb
+C:\Users\raque\source\repos\ConstructorVar\ConstructorVar\obj\Debug\ConstructorVar.csprojAssemblyReference.cache
+C:\Users\raque\source\repos\ConstructorVar\ConstructorVar\obj\Debug\ConstructorVar.csproj.CoreCompileInputs.cache
+C:\Users\raque\source\repos\ConstructorVar\ConstructorVar\obj\Debug\ConstructorVar.exe
+C:\Users\raque\source\repos\ConstructorVar\ConstructorVar\obj\Debug\ConstructorVar.pdb
