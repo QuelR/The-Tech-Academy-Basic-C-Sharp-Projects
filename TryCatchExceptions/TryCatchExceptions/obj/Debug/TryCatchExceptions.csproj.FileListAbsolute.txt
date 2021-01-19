@@ -1,0 +1,7 @@
+C:\Users\raque\source\repos\TryCatchExceptions\TryCatchExceptions\bin\Debug\TryCatchExceptions.exe.config
+C:\Users\raque\source\repos\TryCatchExceptions\TryCatchExceptions\bin\Debug\TryCatchExceptions.exe
+C:\Users\raque\source\repos\TryCatchExceptions\TryCatchExceptions\bin\Debug\TryCatchExceptions.pdb
+C:\Users\raque\source\repos\TryCatchExceptions\TryCatchExceptions\obj\Debug\TryCatchExceptions.csprojAssemblyReference.cache
+C:\Users\raque\source\repos\TryCatchExceptions\TryCatchExceptions\obj\Debug\TryCatchExceptions.csproj.CoreCompileInputs.cache
+C:\Users\raque\source\repos\TryCatchExceptions\TryCatchExceptions\obj\Debug\TryCatchExceptions.exe
+C:\Users\raque\source\repos\TryCatchExceptions\TryCatchExceptions\obj\Debug\TryCatchExceptions.pdb
